@@ -64,14 +64,6 @@ The model was trained on each class of the VisA dataset. Here's a summary of the
 | macaroni1   | 0.8205      | 1         | 1:39:47    |
 | macaroni2   | 0.7748      | 21        | 1:46:24    |
 
-## Conclusion
-
-The model shows varying performance across different classes, with AUROC scores ranging from 0.7145 to 0.9897. PCB classes and some food items achieved high AUROC scores, while classes like capsules and macaroni showed lower performance.
-
-## Future Work
-
-- Improve model performance on lower-scoring classes
-- Investigate factors contributing to varying detection accuracies across object types
 
 ## Citation
 
